@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# About appro dec
 
-# Run and deploy your AI Studio app
+Appro dec is a project designed to provide a comprehensive solution for...
 
-This contains everything you need to run your app locally.
+It focuses on features such as...
 
-View your app in AI Studio: https://ai.studio/apps/beb69cbf-557f-4440-90ed-0906b2fe5b59
+## Key Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+For more detailed information, please refer to the documentation.
